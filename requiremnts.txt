@@ -1,0 +1,8 @@
+tensorflow==2.19.0
+numpy>=1.23
+matplotlib>=3.7
+seaborn>=0.12
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.25
+scikit-learn>=1.3
